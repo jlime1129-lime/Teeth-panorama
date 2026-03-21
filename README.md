@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🦷 Dental Panorama Image Processing</h1>
+  <h1>Dental Panorama Image Processing</h1>
   <p><b>Flattening a U-shaped Dental Arch into a 2D Panorama</b></p>
 </div>
 
