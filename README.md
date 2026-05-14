@@ -5,7 +5,7 @@
 
 <br>
 
-## 👁️ Visual Result
+## Visual Result
 
 <div align="center">
   <img src="Teeth_panorama.png" alt="Teeth Panorama result" width="80%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
@@ -13,13 +13,10 @@
 
 <br>
 
-## 🚀 Project Overview
+## Project Overview
 
 * **Objective:** Developed an algorithm to mathematically analyze U-shaped dental arch data and flatten it into a straight, 2D panoramic image.
 * **Key Challenge:** Estimating the central curve of the dental arch and precisely remapping pixels to minimize geometric distortion during the unwrapping process.
-
-## 🛠️ Tech Stack & Methods
-* `Python`, `OpenCV`, `Image Unwrapping`,  `Image Stitching`, `SIFT/SURF`, `Geometric Transformation`
 
 <br>
 
