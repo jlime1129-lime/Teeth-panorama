@@ -5,6 +5,19 @@
 
 <br>
 
+## Input images (Partial)
+
+<p align="center">
+  <img src="./images_examples/2.jpg" alt="2" width="13%">
+  <img src="./images_examples/8.jpg" alt="8" width="13%">
+  <img src="./images_examples/11.jpg" alt="11" width="13%">
+  <img src="./images_examples/35.jpg" alt="35" width="13%">
+  <img src="./images_examples/40.jpg" alt="40" width="13%">
+  <img src="./images_examples/46.jpg" alt="46" width="13%">
+  <img src="./images_examples/53.jpg" alt="53" width="13%">
+</p>
+<br>
+
 ## Visual Result
 
 <div align="center">
