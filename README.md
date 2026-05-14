@@ -19,8 +19,3 @@
 * **Key Challenge:** Estimating the central curve of the dental arch and precisely remapping pixels to minimize geometric distortion during the unwrapping process.
 
 <br>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-</div>
